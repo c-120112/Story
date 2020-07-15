@@ -1,1 +1,3 @@
 It takes no effort to be here. Effortless. Presence is available to us all.
+
+(This was a project where I created a local repository and pushed the local files to the remote repositor) 
